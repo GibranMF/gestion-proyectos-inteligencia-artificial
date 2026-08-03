@@ -46,6 +46,14 @@ La solución utiliza técnicas de Procesamiento de Lenguaje Natural (NLP) e Inte
 - Auditorías de calidad de datos.
 - Mecanismos de explicabilidad.
 
+## Evidencia de presentación
+
+Como parte de la Fase I se elaboró y presentó el Business Case del proyecto mediante una exposición ejecutiva en video.
+
+**Enlace al video:**
+
+https://drive.google.com/file/d/1Ff1BELYUK6OLQMZjF01AfBlsanzrZr1g/view?usp=sharing
+
 ## Archivos incluidos
 
 - GPIA_Actividad_Fase1.pdf
